@@ -1,0 +1,23 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: rgba(2,2,2);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 14;
+    line-height: 16px;
+    text-align: justify;
+    -web-kit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background:url(gandaa.jpg)no-repeat center/ cover;
+    background-attachment: fixed;
+    -web-kit-background-clip: text;
+    -webkit-text-fill-color: rgba(28, 25, 25, 0.1);
+
+}
